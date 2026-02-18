@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Terra UST: Universal Semantic Translator v1.0"
+version: 1.0.0
+date-released: 2026-02-21
+authors:
+  - family-names: Abdukarimov
+    given-names: Abdurashid Abdulkhamitovich
+    orcid: https://orcid.org/0009-0000-6394-4912
+    affiliation: "Fractal Metascience Foundation, Tashkent, Uzbekistan"
+abstract: >
+  Universal Semantic Translator (UST) — the meta-fractal connective tissue
+  of the FMP ecosystem. Enables semantic translation across languages at the
+  epistemic level, preserving meaning, cultural context, and ontological
+  relationships. Built on the Fractal Metascience Paradigm (FMP).
+  Current: client-side prototype (4 languages). Roadmap: 7+ languages,
+  Navoi corpus integration, Chagatai reconstruction.
+keywords:
+  - Universal Semantic Translator
+  - UST
+  - Fractal Metascience Paradigm
+  - FMP
+  - multilingual
+  - semantic translation
+  - Chagatai
+  - Uzbek
+  - PLT
+  - NULLO
+license: CC-BY-SA-4.0
+repository-code: https://github.com/Secret-Uzbek/terra-ust-core
+url: https://fractal-metascience.org
