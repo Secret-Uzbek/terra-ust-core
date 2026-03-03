@@ -1,95 +1,37 @@
-# TERRA UST — Universal Semantic Translator
+# 🔧 Terra UST Core — Universal Semantic Translator
 
-**Core specification and prototype**
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
+[![Version](https://img.shields.io/badge/UST-v1.0.0-blue)](https://github.com/Secret-Uzbek/terra-ust-core/releases/tag/v1.0.0)
 
-**Version:** 1.0.0  
-**Date:** February 2026  
-**Author:** Abdurashid Abdukarimov  
-**ORCID:** [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
-**License:** CC BY-SA 4.0
+> **Terra UST Core** contains the formal specification of the Universal Semantic Translator and the FMP Ecosystem Integration Matrix — enabling all Terra components to communicate through a shared semantic protocol.
 
----
+## 📋 Contents
 
-## What is UST?
+| File | Description |
+|------|-------------|
+| `UST-Specification-v1.0.md` | Full UCOM protocol specification |
+| `FMP-Integration-Matrix-v1.0.md` | Cross-repository dependency map |
+| `FMP-Master-Index.md` | Complete FMP ecosystem index |
+| `FMP-366-Day-Calendar-v1.0.md` | FMP research calendar |
+| `README-INTEGRATION.md` | Integration guide for developers |
 
-> "UST is not a tool FOR projects. UST IS the connective tissue BETWEEN projects. Every project strengthens UST. UST enables every project. This is RECURSIVE GROWTH."
+## 🏗️ UCOM Protocol
 
-The Universal Semantic Translator (UST) is the meta-fractal component of the FMP ecosystem. It enables semantic translation across languages not at the lexical level, but at the **epistemic** level — preserving meaning, cultural context, and ontological relationships.
+The **Universal Communication (UCOM) protocol** defines:
 
-**Current status:** Client-side prototype (10 words, 4 languages). Corpus integration in progress.
+1. **Semantic primitives** — atomic units of meaning
+2. **Composition rules** — how primitives combine
+3. **Translation algebra** — cross-language mapping functions
+4. **Validation criteria** — coherence checking
 
----
+## 🔗 Ecosystem Integration
 
-## Live Demo
+Terra UST Core integrates with:
+- [FMP-CENTRAL-REPO](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) — Central hub
+- [ust-mvp](https://github.com/Secret-Uzbek/ust-mvp) — Live implementation
+- [terra-ust-autobuild](https://github.com/Secret-Uzbek/terra-ust-autobuild) — Auto-build system
 
-🌐 [terra-ust-autobuild](https://secret-uzbek.github.io/terra-ust-autobuild/)
+## 👤 Author
 
----
-
-## Repository Structure
-
-```
-terra-ust-core/
-├── index.html                      # UST prototype (FMP Core v0.1)
-├── UST-Specification-v1.0.md       # Full technical specification
-├── FMP-Integration-Matrix-v1.0.md  # How UST connects all FMP projects
-├── FMP-366-Day-Calendar-v1.0.md    # Annual research schedule
-├── FMP-Master-Index.md             # Complete project catalog
-├── README-INTEGRATION.md           # Deployment guide
-├── deploy.sh                       # One-command deployment script
-└── README.md                       # This file
-```
-
----
-
-## Languages Supported (v1.0 prototype)
-
-| Language | Code | Status |
-|----------|------|--------|
-| Uzbek | uz | ✅ active |
-| Russian | ru | ✅ active |
-| English | en | ✅ active |
-| German | de | ✅ active |
-| Urdu | ur | 📋 planned |
-| Hindi | hi | 📋 planned |
-| Chagatai | chg | 📋 planned |
-
----
-
-## Primary Integration: Navoi ↔ Babur ↔ UST
-
-585 years of Chagatai literary tradition — now digitized and interconnected:
-
-- **Feb 9, 2026** → Navoi Semantic Corpus launched
-- **Feb 14, 2026** → Babur-Terra Codex launched  
-- **Feb 21, 2026** → UST v1.0 beta planned
-
----
-
-## Quick Deploy
-
-```bash
-chmod +x deploy.sh
-./deploy.sh
-```
-
-See [README-INTEGRATION.md](README-INTEGRATION.md) for full instructions.
-
----
-
-## Citation
-
-```bibtex
-@misc{abdukarimov2026ust,
-  author = {Abdukarimov, Abdurashid},
-  title = {{Terra UST}: Universal Semantic Translator v1.0},
-  year = {2026},
-  publisher = {GitHub},
-  url = {https://github.com/Secret-Uzbek/terra-ust-core}
-}
-```
-
----
-
-**Contact:** a.abdukarimov@fractal-metascience.org  
-**Website:** https://fractal-metascience.org
+**Abdurashid Abdukarimov** | Fractal Metascience Foundation | Tashkent, Uzbekistan  
+🔗 [ORCID](https://orcid.org/0009-0000-6394-4912)
