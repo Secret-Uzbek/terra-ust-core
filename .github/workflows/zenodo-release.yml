@@ -1,0 +1,54 @@
+name: Zenodo DOI Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  update-doi:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Wait for Zenodo webhook
+        run: sleep 60
+
+      - name: Fetch DOI from Zenodo
+        id: zn
+        run: |
+          Q=$(python3 -c "import urllib.parse; print(urllib.parse.quote('related_identifier:https://github.com/Secret-Uzbek/terra-ust-core'))")
+          RESP=$(curl -s "https://zenodo.org/api/records?q=$Q&size=5")
+          DOI=$(echo "$RESP" | python3 -c "
+import sys,json
+d=json.load(sys.stdin)
+hits=d.get('hits',{}).get('hits',[])
+print(hits[0]['doi'] if hits and 'doi' in hits[0] else '')
+" 2>/dev/null || echo "")
+          echo "doi=$DOI" >> $GITHUB_OUTPUT
+
+      - name: Update CITATION.cff
+        if: steps.zn.outputs.doi != ''
+        run: |
+          DOI="${{ steps.zn.outputs.doi }}"
+          if [ -f CITATION.cff ]; then
+            if grep -q "^# doi:" CITATION.cff; then
+              sed -i "s|^# doi:.*|doi: \"$DOI\"|" CITATION.cff
+            elif grep -q "^doi:" CITATION.cff; then
+              sed -i "s|^doi:.*|doi: \"$DOI\"|" CITATION.cff
+            else
+              echo "doi: \"$DOI\"" >> CITATION.cff
+            fi
+          fi
+
+      - name: Commit
+        if: steps.zn.outputs.doi != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add CITATION.cff
+          git diff --staged --quiet || git commit -m "ci: Zenodo DOI ${{ steps.zn.outputs.doi }}"
+          git push
