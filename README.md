@@ -1,4 +1,4 @@
-# ð TERRA UST CORE
+# 🌐 TERRA UST CORE
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
 [![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6394-4912-green)](https://orcid.org/0009-0000-6394-4912)
@@ -8,13 +8,13 @@
 > **Repository:** terra-ust-core  
 > Part of the **Fractal Metascience Paradigm (FMP)** ecosystem.
 
-## ð¤ Author
+## 👤 Author
 **Abdurashid Abdukarimov**  
 - ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
 - Location: Tashkent, Uzbekistan
 - Foundation: Fractal Metascience Foundation
 
-## ð Links
+## 🔗 Links
 - [FMP Central Hub](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
 - [Full Ecosystem Map](https://Secret-Uzbek.github.io/FMP-CENTRAL-REPO/repository.html)
 
