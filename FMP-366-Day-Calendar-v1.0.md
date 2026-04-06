@@ -8,32 +8,32 @@
 
 ---
 
-## 🎯 CALENDAR PHILOSOPHY
+## рџЋЇ CALENDAR PHILOSOPHY
 
-> **"If there are 366 days in a year, there should be 366 opportunities to expand human knowledge. Not through isolated events, but through FRACTAL RECURSION — each project building on all others."**
+> **"If there are 366 days in a year, there should be 366 opportunities to expand human knowledge. Not through isolated events, but through FRACTAL RECURSION вЂ” each project building on all others."**
 
 ### Principles
 
 1. **Self-Similarity:** Each day's project mirrors the overall FMP structure
-2. **Multi-Scale:** Daily → Monthly → Quarterly → Annual cycles
+2. **Multi-Scale:** Daily в†’ Monthly в†’ Quarterly в†’ Annual cycles
 3. **Interconnection:** Every project links to UST + previous projects
 4. **Cultural Diversity:** Events from Uzbekistan, Central Asia, Islamic world, Global South, World
 5. **Decolonial:** Centering non-Western calendars (Hijri, Solar Hijri, Chinese, etc.)
 
 ---
 
-## 📅 JANUARY — Foundation Month
+## рџ“… JANUARY вЂ” Foundation Month
 
 ### Jan 1: New Year / Yangi Yil
 **FMP Project:** "Fractal Resolutions"
-- **Theme:** Personal transformation as self-similar pattern (daily habits → life trajectory)
-- **UST Role:** Translate self-help literature (Uzbek ↔ English ↔ Hindi)
+- **Theme:** Personal transformation as self-similar pattern (daily habits в†’ life trajectory)
+- **UST Role:** Translate self-help literature (Uzbek в†” English в†” Hindi)
 - **Output:** Mobile app for fractal goal-setting
 
 ### Jan 10: Tashkent Declaration Anniversary (1966)
 **FMP Project:** "Peace as Fractal Process"
 - **Theme:** How 1966 declaration connects to modern India-Pakistan relations
-- **UST Role:** Historical document translation (Russian ↔ Urdu ↔ Hindi)
+- **UST Role:** Historical document translation (Russian в†” Urdu в†” Hindi)
 - **Output:** Policy brief for SCO summit (see Babur-Terra Module 11)
 
 ### Jan 19: Indira Gandhi becomes PM (1966)
@@ -45,17 +45,17 @@
 ### Jan 27: Mozart's birthday (1756)
 **FMP Project:** "Musical Fractals East-West"
 - **Theme:** Compare Mozart's compositions with Navoi's poetic structures
-- **UST Role:** Translate music theory terminology (German ↔ Chagatai)
+- **UST Role:** Translate music theory terminology (German в†” Chagatai)
 - **Output:** Academic paper on fractal patterns in art
 
 ---
 
-## 📅 FEBRUARY — Heritage Month
+## рџ“… FEBRUARY вЂ” Heritage Month
 
 ### Feb 9: **ALISHER NAVOI BIRTHDAY (1441)**
-**FMP Project:** **Navoi Semantic Corpus** ✅ (Already launched!)
+**FMP Project:** **Navoi Semantic Corpus** вњ… (Already launched!)
 - **Theme:** Complete digitization of Chagatai literary heritage
-- **UST Role:** Core application — Chagatai ↔ Uzbek ↔ Persian ↔ Russian ↔ English
+- **UST Role:** Core application вЂ” Chagatai в†” Uzbek в†” Persian в†” Russian в†” English
 - **Output:** 
   - Digital library (10,000+ pages)
   - Semantic annotation tool
@@ -68,7 +68,7 @@
 - UST enables cross-corpus analysis (find all Babur references to Navoi)
 
 ### Feb 14: **ZAHIRUDDIN MUHAMMAD BABUR BIRTHDAY (1483)**
-**FMP Project:** **Babur-Terra Codex** ✅ (Current project!)
+**FMP Project:** **Babur-Terra Codex** вњ… (Current project!)
 - **Theme:** Geopolitical legacy from Ferghana to Fractal Silk Road
 - **UST Role:** Baburnama translation (all editions comparison)
 - **Output:** 
@@ -85,7 +85,7 @@
 ### Feb 15: Galileo Galilei birthday (1564)
 **FMP Project:** "Ulugbek-Galileo: Parallel Scientific Revolutions"
 - **Theme:** Compare Central Asian astronomy (Ulugbek) with European Renaissance
-- **UST Role:** Translate astronomical terminology (Arabic-Persian ↔ Latin ↔ Italian)
+- **UST Role:** Translate astronomical terminology (Arabic-Persian в†” Latin в†” Italian)
 - **Output:** Museum exhibition proposal
 
 ### Feb 21: International Mother Language Day
@@ -96,7 +96,7 @@
 
 ---
 
-## 📅 MARCH — Nowruz & Scientific Heritage
+## рџ“… MARCH вЂ” Nowruz & Scientific Heritage
 
 ### Mar 21: **NOWRUZ (Persian/Central Asian New Year)**
 **FMP Project:** "Nowruz Fractals: Cultural Synthesis"
@@ -110,23 +110,23 @@
 ### Mar 22: World Water Day
 **FMP Project:** "Indus Waters Treaty & FSR"
 - **Theme:** Water geopolitics (India-Pakistan) + Central Asian water conflicts
-- **UST Role:** Translate treaty documents (English ↔ Urdu ↔ Uzbek)
+- **UST Role:** Translate treaty documents (English в†” Urdu в†” Uzbek)
 - **Output:** Policy brief on water cooperation in FSR framework
 
 ### Mar 24: Ulugbek Killed (1449)
 **FMP Project:** "Ulugbek Observatory: Fractal Science"
 - **Theme:** Medieval astronomy's fractal precision (star catalogs, trigonometry)
-- **UST Role:** Translate Zij-i-Sultani (astronomical tables) Arabic → modern languages
+- **UST Role:** Translate Zij-i-Sultani (astronomical tables) Arabic в†’ modern languages
 - **Output:** Interactive astronomy app + UNESCO nomination
 
 ---
 
-## 📅 APRIL — Soviet Legacy & Reconstruction
+## рџ“… APRIL вЂ” Soviet Legacy & Reconstruction
 
 ### Apr 12: Yuri Gagarin spaceflight (1961)
 **FMP Project:** "Soviet Central Asia in Space Age"
 - **Theme:** Tashkent's role in USSR space program (cosmonauts, engineers)
-- **UST Role:** Russian ↔ Uzbek technical documentation
+- **UST Role:** Russian в†” Uzbek technical documentation
 - **Output:** Aerospace heritage database
 
 ### Apr 26: Tashkent Earthquake (1966)
@@ -140,23 +140,23 @@
 
 ---
 
-## 📅 MAY — Labor & Silk Road
+## рџ“… MAY вЂ” Labor & Silk Road
 
 ### May 1: International Workers' Day
 **FMP Project:** "Labor Mobility in FSR"
-- **Theme:** Migrant workers (Uzbekistan → Russia, India → Gulf)
+- **Theme:** Migrant workers (Uzbekistan в†’ Russia, India в†’ Gulf)
 - **UST Role:** Translate labor rights documents
 - **Output:** Policy brief on FSR creating local jobs (reducing migration)
 
 ### May 9: Victory Day (WWII End in USSR)
 **FMP Project:** "Central Asians in WWII"
-- **Theme:** 1.5 million Uzbeks fought (400,000+ died) — forgotten contribution
-- **UST Role:** Veterans' oral histories (Uzbek ↔ Russian)
+- **Theme:** 1.5 million Uzbeks fought (400,000+ died) вЂ” forgotten contribution
+- **UST Role:** Veterans' oral histories (Uzbek в†” Russian)
 - **Output:** Digital memorial + museum partnerships
 
 ---
 
-## 📅 JUNE — Childhood & Education
+## рџ“… JUNE вЂ” Childhood & Education
 
 ### Jun 1: International Children's Day
 **FMP Project:** "FMP Pedagogy: Teaching Fractal Thinking"
@@ -175,28 +175,28 @@
 
 ---
 
-## 📅 JULY — Independence & Identity
+## рџ“… JULY вЂ” Independence & Identity
 
-### Jul 4: USA Independence (1776) — via Boston Tea Party (Babur-Terra connection!)
+### Jul 4: USA Independence (1776) вЂ” via Boston Tea Party (Babur-Terra connection!)
 **FMP Project:** "Tea Geopolitics Revisited"
 - **Theme:** Update Babur-Terra Module 8 with economic analysis
-- **UST Role:** Historical trade documents (English ↔ Hindi ↔ Chinese)
+- **UST Role:** Historical trade documents (English в†” Hindi в†” Chinese)
 - **Output:** Trade history visualization
 
 ### Jul 14: Bastille Day (1789)
 **FMP Project:** "Revolutions as Fractals"
 - **Theme:** Compare French, Russian, decolonization movements
-- **UST Role:** Revolutionary manifestos (French ↔ Russian ↔ Hindi ↔ Arabic)
+- **UST Role:** Revolutionary manifestos (French в†” Russian в†” Hindi в†” Arabic)
 - **Output:** Political theory database
 
 ---
 
-## 📅 AUGUST — Mongol Legacy & Partition
+## рџ“… AUGUST вЂ” Mongol Legacy & Partition
 
 ### Aug 15: India Independence / Pakistan Independence (Aug 14)
 **FMP Project:** "Partition 1947: Fractal Trauma"
 - **Theme:** Update Babur-Terra Module 6 with oral histories
-- **UST Role:** Partition narratives (Urdu ↔ Hindi ↔ Punjabi ↔ Bengali)
+- **UST Role:** Partition narratives (Urdu в†” Hindi в†” Punjabi в†” Bengali)
 - **Output:** 
   - Digital archive (testimonies)
   - AI analysis of trauma patterns
@@ -205,17 +205,17 @@
 ### Aug 18: Genghis Khan birthday (disputed, ~1162)
 **FMP Project:** "Mongol-Timurid Continuity"
 - **Theme:** How Babur's Timurid identity connects to Genghis Khan
-- **UST Role:** Mongolian ↔ Chagatai ↔ Persian historical texts
+- **UST Role:** Mongolian в†” Chagatai в†” Persian historical texts
 - **Output:** Genealogical database + genetic studies
 
 ---
 
-## 📅 SEPTEMBER — Harvest & SCO Summit
+## рџ“… SEPTEMBER вЂ” Harvest & SCO Summit
 
 ### Sep 1: Uzbekistan Independence Day (1991)
 **FMP Project:** "30+ Years of Independence: Fractal Development"
-- **Theme:** Uzbekistan's transformation (Soviet → Post-Soviet → Future)
-- **UST Role:** Policy documents (all eras: Russian → Uzbek Latin → Cyrillic)
+- **Theme:** Uzbekistan's transformation (Soviet в†’ Post-Soviet в†’ Future)
+- **UST Role:** Policy documents (all eras: Russian в†’ Uzbek Latin в†’ Cyrillic)
 - **Output:** 
   - National development dashboard
   - Comparative analysis (with other Central Asian states)
@@ -228,17 +228,17 @@
 
 ---
 
-## 📅 OCTOBER — Revolution & Silk Road
+## рџ“… OCTOBER вЂ” Revolution & Silk Road
 
 ### Oct 24: UN Day
 **FMP Project:** "Uzbekistan at UN: 30+ Years"
 - **Theme:** Uzbekistan's diplomatic footprint
-- **UST Role:** UN speeches/resolutions (Uzbek ↔ 6 UN languages)
+- **UST Role:** UN speeches/resolutions (Uzbek в†” 6 UN languages)
 - **Output:** Diplomatic impact analysis
 
 ---
 
-## 📅 NOVEMBER — Remembrance & Bollywood
+## рџ“… NOVEMBER вЂ” Remembrance & Bollywood
 
 ### Nov 7: October Revolution (old calendar, 1917)
 **FMP Project:** "Soviet Central Asia: 100+ Years Later"
@@ -249,14 +249,14 @@
 ### Nov 15: Raj Kapoor birthday (1924)
 **FMP Project:** "Bollywood in USSR: Fractal Soft Power"
 - **Theme:** Update Babur-Terra Module 9
-- **UST Role:** Film subtitles/reviews (Russian ↔ Hindi ↔ Uzbek)
+- **UST Role:** Film subtitles/reviews (Russian в†” Hindi в†” Uzbek)
 - **Output:** 
   - Film database
   - Raj Kapoor festival in Tashkent
 
 ---
 
-## 📅 DECEMBER — Closure & Future
+## рџ“… DECEMBER вЂ” Closure & Future
 
 ### Dec 10: Nobel Prize Day
 **FMP Project:** "FMP Prize Launch"
@@ -282,25 +282,25 @@
 
 ---
 
-## 🔗 INTEGRATION MATRIX
+## рџ”— INTEGRATION MATRIX
 
 ### How Each Project Connects to UST
 
 ```
 Every FMP Project:
-├── Step 1: Identify primary sources (texts, speeches, documents)
-├── Step 2: Use UST to translate with semantic depth
-├── Step 3: Build project-specific ontology (concepts, relationships)
-├── Step 4: Analyze using FMP framework (fractals, recursion, self-similarity)
-├── Step 5: Output in all FMP languages (Uzbek, Urdu, Hindi, English, Russian)
-└── Step 6: Feed learnings back into UST (improve translation quality)
+в”њв”Ђв”Ђ Step 1: Identify primary sources (texts, speeches, documents)
+в”њв”Ђв”Ђ Step 2: Use UST to translate with semantic depth
+в”њв”Ђв”Ђ Step 3: Build project-specific ontology (concepts, relationships)
+в”њв”Ђв”Ђ Step 4: Analyze using FMP framework (fractals, recursion, self-similarity)
+в”њв”Ђв”Ђ Step 5: Output in all FMP languages (Uzbek, Urdu, Hindi, English, Russian)
+в””в”Ђв”Ђ Step 6: Feed learnings back into UST (improve translation quality)
 ```
 
 **Result:** UST gets better with EVERY project (recursive improvement!)
 
 ---
 
-## 📊 METRICS OF SUCCESS
+## рџ“Љ METRICS OF SUCCESS
 
 ### By End of 2026:
 - [ ] 100+ FMP projects launched (from 366-day calendar)
@@ -310,7 +310,7 @@ Every FMP Project:
 - [ ] 5+ governments engage with FMP proposals
 
 ### By End of 2030:
-- [ ] 1000+ projects (4 years × 366 days, minus overlaps)
+- [ ] 1000+ projects (4 years Г— 366 days, minus overlaps)
 - [ ] UST = global standard for cultural heritage translation
 - [ ] 100,000+ users
 - [ ] Tashkent = recognized center for epistemic innovation
@@ -318,9 +318,9 @@ Every FMP Project:
 
 ---
 
-## 🏆 TOWARD PLANETARY THINK TANK
+## рџЏ† TOWARD PLANETARY THINK TANK
 
-### Stage 1: Individual (2026) — **CURRENT**
+### Stage 1: Individual (2026) вЂ” **CURRENT**
 - Abdurashid = solo researcher
 - GitHub repos, academic papers
 - Small grants ($50-100K)
@@ -345,19 +345,19 @@ Every FMP Project:
 
 ---
 
-## 📞 HOW TO CONTRIBUTE
+## рџ“ћ HOW TO CONTRIBUTE
 
 ### For Researchers:
-Pick a day → Propose a project → Use UST → Publish
+Pick a day в†’ Propose a project в†’ Use UST в†’ Publish
 
 ### For Funders:
-Support UST development ($$$) → Enable entire ecosystem
+Support UST development ($$$) в†’ Enable entire ecosystem
 
 ### For Governments:
-Commission policy briefs → Implement FSR → Host FMP Institute
+Commission policy briefs в†’ Implement FSR в†’ Host FMP Institute
 
 ### For Students:
-Learn fractal thinking → Use UST for studies → Become next generation
+Learn fractal thinking в†’ Use UST for studies в†’ Become next generation
 
 ---
 
@@ -368,4 +368,4 @@ Learn fractal thinking → Use UST for studies → Become next generation
 
 ---
 
-**🔥 366 DAYS, 366 FRACTALS, ONE PLANETARY REVOLUTION 🔥**
+**рџ”Ґ 366 DAYS, 366 FRACTALS, ONE PLANETARY REVOLUTION рџ”Ґ**
