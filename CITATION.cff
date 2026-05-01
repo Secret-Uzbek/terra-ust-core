@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use or quote this specification-core layer, please cite it as below."
 type: software
 title: "terra-ust-core"
 authors:
@@ -11,10 +11,10 @@ repository-code: "https://github.com/Secret-Uzbek/terra-ust-core"
 abstract: "Terra UST Core specification and FMP ecosystem integration matrix."
 keywords:
   - fractal-metascience
-  - fmp
-  - uzbekistan
-  - open-science
+  - ust
+  - specification
+  - core
+  - integration
 license: CC0-1.0
 date-released: "2026-03-03"
 version: "1.0.0"
-# doi: "10.5281/zenodo.TODO"
