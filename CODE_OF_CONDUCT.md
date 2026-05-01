@@ -1,7 +1,16 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone...
+This repository is part of the Terra ecosystem and must remain readable,
+respectful, and safe for collaborative work.
 
-## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at a.a.abdukarimov@tutamail.com.
+## Expected behavior
+
+- respect contributors and readers;
+- preserve evidence and meaning coherence;
+- avoid fabrication, harassment, and destructive editing;
+- keep the repository usable for humans first.
+
+## Ecosystem rule
+
+Do not use this repository as a place for performative noise, fake metadata, or
+hostile degradation of meaning.
