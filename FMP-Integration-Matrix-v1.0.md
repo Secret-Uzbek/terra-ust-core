@@ -7,22 +7,22 @@
 
 ---
 
-## рџЋЇ CORE PRINCIPLE
+## 🎯 CORE PRINCIPLE
 
 > **"UST is not a tool FOR projects. UST IS the connective tissue BETWEEN projects. Every project strengthens UST. UST enables every project. This is RECURSIVE GROWTH."**
 
 ---
 
-## рџ”— PRIMARY INTEGRATION: NAVOI в†” BABUR в†” UST
+## 🔗 PRIMARY INTEGRATION: NAVOI ↔ BABUR ↔ UST
 
 ### Timeline
 
 ```
 1441: Alisher Navoi born (Herat)
-1483: Babur born (Andijan) вЂ” grows up reading Navoi
-1501: Babur flees to Kabul вЂ” quotes Navoi in Baburnama
-1526: Babur conquers India вЂ” brings Chagatai literature
-1530: Babur dies вЂ” Baburnama becomes historical source
+1483: Babur born (Andijan) — grows up reading Navoi
+1501: Babur flees to Kabul — quotes Navoi in Baburnama
+1526: Babur conquers India — brings Chagatai literature
+1530: Babur dies — Baburnama becomes historical source
 2026 Feb 9: Navoi Semantic Corpus launched
 2026 Feb 14: Babur-Terra Codex launched
 2026 Feb 21: UST v1.0 beta released
@@ -62,9 +62,9 @@ Only then knew how beloved it had been."*
    - Babur: "Farg'ona mening vatanimdi, men uni qanchalik chiroyli ekanligini bilmaganman"
 
 **Impact:**
-- Students studying Navoi в†’ automatically see Babur's similar passages
-- Researchers analyzing exile в†’ find all FMP sources on theme
-- Tourists visiting Ferghana Valley в†’ understand deep cultural meaning
+- Students studying Navoi → automatically see Babur's similar passages
+- Researchers analyzing exile → find all FMP sources on theme
+- Tourists visiting Ferghana Valley → understand deep cultural meaning
 
 ---
 
@@ -72,24 +72,24 @@ Only then knew how beloved it had been."*
 
 **Navoi Corpus Feeds Babur Analysis:**
 - Navoi's poetry = literary model for Babur's prose
-- Understanding Navoi's metaphors в†’ understand Babur's allusions
+- Understanding Navoi's metaphors → understand Babur's allusions
 - Example: Babur describes garden as "Ъ†Щ‡Ш§Ш± ШЁШ§Шє" (chahar bagh = four-part garden)
   - This is Timurid architectural concept
   - Navoi describes idealized gardens in poetry
-  - UST links both в†’ user sees full cultural context
+  - UST links both → user sees full cultural context
 
 **Babur Corpus Feeds Navoi Analysis:**
-- Babur's historical accounts в†’ contextualize Navoi's era
+- Babur's historical accounts → contextualize Navoi's era
 - Babur describes Herat (where Navoi lived) in Baburnama
-  - UST cross-references в†’ when reading Navoi, see Babur's description of same city
-- Babur's autobiography в†’ rare first-person perspective on 15th-16th century life
+  - UST cross-references → when reading Navoi, see Babur's description of same city
+- Babur's autobiography → rare first-person perspective on 15th-16th century life
   - Illuminates social world Navoi wrote for
 
 **Result:** Two corpora become ONE interconnected knowledge graph
 
 ---
 
-## рџЊђ SECONDARY INTEGRATIONS
+## 🌐ђ SECONDARY INTEGRATIONS
 
 ### 1. Navoi + Ulugbek (March 24 event)
 
@@ -118,19 +118,19 @@ Only then knew how beloved it had been."*
 **UST Integration:**
 - Babur's descriptions of India (Baburnama)
 - Partition narratives (oral histories, political speeches)
-- **Contrast:** Unity в†’ Fragmentation
+- **Contrast:** Unity → Fragmentation
 
 **Project Output:**
 - "From Mughal Synthesis to Colonial Rupture"
-- Timeline visualization (1526 в†’ 1947)
+- Timeline visualization (1526 → 1947)
 - Comparative text analysis (UST shows language of unity vs division)
 
 ### 3. Babur + Bollywood (November 15 event)
 
 **Connection:**
-- Mughal aesthetic в†’ Bollywood visual language
-- Urdu poetry в†’ Bollywood lyrics
-- Taj Mahal в†’ iconic film location
+- Mughal aesthetic → Bollywood visual language
+- Urdu poetry → Bollywood lyrics
+- Taj Mahal → iconic film location
 
 **UST Integration:**
 - Babur's poetry (Chagatai/Persian)
@@ -148,37 +148,37 @@ Only then knew how beloved it had been."*
 
 ### How Projects Improve UST
 
-**Loop 1: Corpus в†’ Ontology**
+**Loop 1: Corpus → Ontology**
 ```
 Navoi Corpus digitized
-  в†’ 10,000 Chagatai poems analyzed
-  в†’ Extract 5,000 unique concepts (love, exile, beauty, power, etc.)
-  в†’ Add to UST semantic ontology
-  в†’ Now Babur translations use enriched ontology
-  в†’ Result: Better translations!
+  → 10,000 Chagatai poems analyzed
+  → Extract 5,000 unique concepts (love, exile, beauty, power, etc.)
+  → Add to UST semantic ontology
+  → Now Babur translations use enriched ontology
+  → Result: Better translations!
 ```
 
-**Loop 2: User Corrections в†’ Model**
+**Loop 2: User Corrections → Model**
 ```
 Researcher uses UST to translate Baburnama
-  в†’ Finds error: "turuq" mistranslated as "stand" (should be "establish rule")
-  в†’ Submits correction
-  в†’ UST learns: "turuq" in political context = authority, not just position
-  в†’ All future translations improved
+  → Finds error: "turuq" mistranslated as "stand" (should be "establish rule")
+  → Submits correction
+  → UST learns: "turuq" in political context = authority, not just position
+  → All future translations improved
 ```
 
-**Loop 3: New Projects в†’ New Languages**
+**Loop 3: New Projects → New Languages**
 ```
 FSR project needs logistics terminology
-  в†’ Requires Uzbek-Chinese trade documents
-  в†’ UST adds Chinese module
-  в†’ Suddenly: Navoi poetry can be translated to Chinese!
-  в†’ New audience: Chinese scholars studying Silk Road
+  → Requires Uzbek-Chinese trade documents
+  → UST adds Chinese module
+  → Suddenly: Navoi poetry can be translated to Chinese!
+  → New audience: Chinese scholars studying Silk Road
 ```
 
 ---
 
-## рџ“Љ QUANTITATIVE INTEGRATION METRICS
+## 📊 QUANTITATIVE INTEGRATION METRICS
 
 ### Network Analysis (End of 2026 projected)
 
@@ -194,12 +194,12 @@ FMP Knowledge Graph:
 в”њв”Ђв”Ђ Edges (Connections): 200,000+
 в”‚   в”њв”Ђв”Ђ Within Navoi: 50,000 (poem-to-poem references)
 в”‚   в”њв”Ђв”Ђ Within Babur: 30,000 (chronological events)
-в”‚   в”њв”Ђв”Ђ Navoi в†’ Babur: 5,000 (literary influences)
-в”‚   в”њв”Ђв”Ђ Babur в†’ Modern: 10,000 (historical consequences)
-в”‚   в””в”Ђв”Ђ Cross-domain: 105,000 (e.g., poetry в†’ politics)
+в”‚   в”њв”Ђв”Ђ Navoi → Babur: 5,000 (literary influences)
+в”‚   в”њв”Ђв”Ђ Babur → Modern: 10,000 (historical consequences)
+в”‚   в””в”Ђв”Ђ Cross-domain: 105,000 (e.g., poetry → politics)
 в”‚
 в””в”Ђв”Ђ Languages: 7 primary (Chagatai, Uzbek, Urdu, Hindi, English, Russian, Persian)
-    в””в”Ђв”Ђ Translation paths: 42 (7Г—6 bidirectional)
+    в””в”Ђв”Ђ Translation paths: 42 (7×6 bidirectional)
 ```
 
 **Insight:**
@@ -210,9 +210,9 @@ FMP Knowledge Graph:
 
 ---
 
-## рџЊЌ GLOBAL INTEGRATION PATHWAYS
+## 🌍 GLOBAL INTEGRATION PATHWAYS
 
-### FMP в†’ UNESCO World Heritage
+### FMP → UNESCO World Heritage
 
 **Current UNESCO Sites (Central Asia):**
 - Samarkand (Uzbekistan)
@@ -227,7 +227,7 @@ FMP Knowledge Graph:
 - Create virtual tours with semantic annotations
 - **Proposal:** "FMP = official UNESCO translation partner"
 
-### FMP в†’ Academic Institutions
+### FMP → Academic Institutions
 
 **Current Partners (2026):**
 - Uzbek State World Languages University (UzSWLU)
@@ -245,7 +245,7 @@ FMP Knowledge Graph:
 - Joint publications cite FMP
 - **Result:** FMP becomes standard tool (like JSTOR, but for cultural heritage)
 
-### FMP в†’ Government Policy
+### FMP → Government Policy
 
 **Current Engagement:**
 - Uzbekistan: FSR proposal to Ministry of Investments
@@ -265,7 +265,7 @@ FMP Knowledge Graph:
 
 ## рџЏ† FROM INDIVIDUAL TO INSTITUTION
 
-### Stage 1: Solo Researcher (2024-2026) вЂ” **CURRENT**
+### Stage 1: Solo Researcher (2024-2026) — **CURRENT**
 
 **Assets:**
 - Abdurashid's expertise (linguistics, history, systems thinking)
@@ -400,4 +400,4 @@ FMP Knowledge Graph:
 
 ---
 
-**рџ”Ґ FROM ONE MAN IN TASHKENT TO GLOBAL EPISTEMIC REVOLUTION рџ”Ґ**
+**🔥 FROM ONE MAN IN TASHKENT TO GLOBAL EPISTEMIC REVOLUTION 🔥**

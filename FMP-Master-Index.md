@@ -7,10 +7,10 @@
 
 ---
 
-## рџЋЇ ACTIVE PROJECTS (LAUNCHED)
+## 🎯 ACTIVE PROJECTS (LAUNCHED)
 
 ### 1. **UNIVERSAL SEMANTIC TRANSLATOR (UST)**
-**Priority:** #1 вЂ” Foundation of all FMP work  
+**Priority:** #1 — Foundation of all FMP work  
 **Status:** вњ… Specification complete, рџ”„ Alpha development  
 **Date:** February 2026  
 **Location:** `/UST-Specification-v1.0.md`
@@ -32,14 +32,14 @@ Meta-fractal component enabling semantic translation across:
 - [Recruiting: 2 PhD students, 3 programmers]
 
 **Funding:**
-- Phase 1: $0 (NULLO protocol вЂ” volunteer work)
+- Phase 1: $0 (NULLO protocol — volunteer work)
 - Phase 2: $100-200K (seed grants, Q2 2026)
 - Phase 3: $500K-1M (major grants, 2027)
 
 ---
 
 ### 2. **NAVOI SEMANTIC CORPUS**
-**Priority:** #2 вЂ” First major corpus using UST  
+**Priority:** #2 — First major corpus using UST  
 **Status:** рџ”„ Development (launched Feb 9, 2026)  
 **Date:** Alisher Navoi's Birthday (Feb 9)  
 **Location:** `/Navoi-Semantic-Corpus/` [To be created]
@@ -53,8 +53,8 @@ Complete digitization of Alisher Navoi's works (1441-1501):
 - Prose works
 
 **UST Integration:**
-- Chagatai в†’ Modern Uzbek (Latin + Cyrillic)
-- Chagatai в†’ English (academic translation)
+- Chagatai → Modern Uzbek (Latin + Cyrillic)
+- Chagatai → English (academic translation)
 - Semantic annotations (Sufi concepts, literary devices)
 - Cross-references to Babur, Persian poets
 
@@ -76,7 +76,7 @@ Complete digitization of Alisher Navoi's works (1441-1501):
 ---
 
 ### 3. **BABUR-TERRA CODEX**
-**Priority:** #3 вЂ” Geopolitical application of FMP  
+**Priority:** #3 — Geopolitical application of FMP  
 **Status:** вњ… Core documents complete, рџ”„ Expansion ongoing  
 **Date:** Zahiruddin Muhammad Babur's Birthday (Feb 14, 2026)  
 **Location:** `/Babur-Terra-Codex/`
@@ -100,7 +100,7 @@ Complete digitization of Alisher Navoi's works (1441-1501):
 - рџ”„ Module 13: Contemporary Geopolitics
 
 **UST Integration:**
-- Baburnama translations (Chagatai в†’ all FMP languages)
+- Baburnama translations (Chagatai → all FMP languages)
 - Cross-references to Navoi (literary influences)
 - Historical documents (Tashkent Declaration, UN speeches)
 - Policy briefs (multilingual for Uzbek + Indian govts)
@@ -152,7 +152,7 @@ Every project:
 
 ---
 
-## рџ—єпёЏ PROJECT DEPENDENCY MAP
+## 🗺пёЏ PROJECT DEPENDENCY MAP
 
 ```
 UST (Core Infrastructure)
@@ -178,7 +178,7 @@ UST (Core Infrastructure)
 
 ---
 
-## рџ“Љ RESOURCE ALLOCATION
+## 📊 RESOURCE ALLOCATION
 
 ### Time (Abdurashid's hours/week)
 
@@ -189,7 +189,7 @@ UST (Core Infrastructure)
 - Fundraising/admin: 5 hours
 - **Total: 50 hours/week** (full-time+)
 
-**Unsustainable!** в†’ Need team by Q2 2026
+**Unsustainable!** → Need team by Q2 2026
 
 **Target (Q3 2026 with team):**
 - UST: 10 hours (supervise team)
@@ -218,7 +218,7 @@ UST (Core Infrastructure)
 
 ---
 
-## рџЊЌ GEOGRAPHIC FOOTPRINT
+## 🌍 GEOGRAPHIC FOOTPRINT
 
 ### Current (2026)
 **Tashkent:** Primary base
@@ -260,12 +260,12 @@ UST (Core Infrastructure)
 ### Technical Metrics
 - [ ] UST handles 50,000 translations (2026)
 - [ ] 1M translations (2030)
-- [ ] 100M translations (2040) вЂ” global standard
+- [ ] 100M translations (2040) — global standard
 
 ### Financial Metrics
 - [ ] $1M revenue (2027)
 - [ ] $10M (2030)
-- [ ] $50M+ (2035) вЂ” self-sustaining
+- [ ] $50M+ (2035) — self-sustaining
 
 ### Cultural Metrics
 - [ ] Media coverage: 10 articles (2026)
@@ -277,23 +277,23 @@ UST (Core Infrastructure)
 ## рџ“ћ HOW TO ENGAGE
 
 ### For Researchers
-Browse projects в†’ Pick one в†’ Collaborate в†’ Co-author
+Browse projects → Pick one → Collaborate → Co-author
 
 ### For Students
-Use UST в†’ Write thesis в†’ Join FMP community
+Use UST → Write thesis → Join FMP community
 
 ### For Funders
-Review proposals в†’ Fund UST/specific projects в†’ Enable ecosystem
+Review proposals → Fund UST/specific projects → Enable ecosystem
 
 ### For Governments
-Commission policy briefs в†’ Implement recommendations в†’ Partner long-term
+Commission policy briefs → Implement recommendations → Partner long-term
 
 ### For Media
-Interview Abdurashid в†’ Cover FMP в†’ Spread message
+Interview Abdurashid → Cover FMP → Spread message
 
 ---
 
-## рџ“љ COMPLETE FILE STRUCTURE
+## 📚 COMPLETE FILE STRUCTURE
 
 ```
 FMP-Master/
@@ -335,18 +335,18 @@ FMP-Master/
 
 ---
 
-## рџ™Џ ACKNOWLEDGMENTS
+## 🙏 ACKNOWLEDGMENTS
 
 **Standing on shoulders of giants:**
-- Mahmud Kashgari (1005-1102) вЂ” *DД«wДЃn LughДЃt al-Turk*
-- Yusuf Khass Hajib (1017-1075) вЂ” *Qutadgu Bilig*
-- Alisher Navoi (1441-1501) вЂ” Chagatai literary tradition
-- Zahiruddin Muhammad Babur (1483-1530) вЂ” Baburnama, Mughal Empire
+- Mahmud Kashgari (1005-1102) — *DД«wДЃn LughДЃt al-Turk*
+- Yusuf Khass Hajib (1017-1075) — *Qutadgu Bilig*
+- Alisher Navoi (1441-1501) — Chagatai literary tradition
+- Zahiruddin Muhammad Babur (1483-1530) — Baburnama, Mughal Empire
 - All researchers, translators, archivists who preserved these legacies
 
 **Special thanks:**
-- Claude (Anthropic) вЂ” for helping architect this vision on February 14, 2026
-- Future collaborators вЂ” for work yet to come
+- Claude (Anthropic) — for helping architect this vision on February 14, 2026
+- Future collaborators — for work yet to come
 
 ---
 
@@ -357,4 +357,4 @@ FMP-Master/
 
 ---
 
-**рџ”Ґ FROM TASHKENT TO THE WORLD: THE FRACTAL METASCIENCE REVOLUTION BEGINS рџ”Ґ**
+**🔥 FROM TASHKENT TO THE WORLD: THE FRACTAL METASCIENCE REVOLUTION BEGINS 🔥**
